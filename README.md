@@ -3,7 +3,6 @@
 > **"Visualizing the Real Structure of the Mexican State."**
 
 ![Prototype](https://img.shields.io/badge/Status-Prototype-orange)
-![WebGL](https://img.shields.io/badge/Stack-Neo4j%2520%257C%2520Nutch%2520%257C%2520WebGL-green)
 
 **NexoGob** is an open-source intelligence engine designed to aggregate, map, and analyze the entire digital footprint of the Mexican government. By treating the government's web presence as a mathematical graph, we move beyond simple document search to reveal the *de facto* structure of the bureaucracy, uncovering hidden dependencies, broken administrative chains, and patterns indicative of corruption.
 
